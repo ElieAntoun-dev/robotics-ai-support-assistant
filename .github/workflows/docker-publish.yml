@@ -33,4 +33,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/elieantoun-ai/robotics-ai-assistant:latest
+          tags: ghcr.io/elieantoun-dev/robotics-ai-assistant:latest
